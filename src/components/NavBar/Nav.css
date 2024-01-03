@@ -1,0 +1,141 @@
+
+
+
+.navbar-container{
+    /* background-color: rgb(253, 253, 253); */
+    /* height: 100px; */
+    display: flex;
+    align-items: center;
+   /* justify-content: space-between; */
+   margin-top: 60px;
+
+}
+
+
+
+.image-div{
+    margin-top: -35px;
+}
+
+.logo{
+    margin-left: 50px;
+    height: 30px;
+    margin-top: -50px;
+    cursor: pointer;
+}
+
+
+.lock-icons{
+  
+
+    width: 16px;
+    height: 16px;
+    
+}
+
+
+.menu{
+    font-size: 18px;
+    /* float: left; */
+    list-style: none;
+    padding: 10px;
+    margin-top: 0px;
+    justify-content: space-evenly;
+    cursor: pointer;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+   
+}
+
+.menu-{
+    font-size: 18px;
+    /* float: left; */
+    list-style: none;
+    padding: 10px;
+    margin-top: 0px;
+    color: gray;
+   
+    display: flex;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+.nav-bar{
+    color: rgb(3, 19, 235);
+    
+    /* float: left; */
+    margin-left: -10px;
+    font-weight: 500 !important;  
+    margin-top: -50px;
+    
+ 
+}
+
+
+.right{
+display: flex;
+
+}
+
+
+
+.button-container{
+    display: flex;
+    height: 40px;
+    width: 190px;
+    margin-left: 410px;
+    background-color: rgb(3, 19, 235);
+    border-radius: 5px;
+    margin-top: -50px;
+
+    cursor: pointer;
+    
+}
+
+
+.connect-wallet{
+    color: aliceblue;
+    font-weight: 300;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+
+ .wallet-icon{
+    height: 25px;
+    width: 25px;
+    margin-left: 10px;
+    margin-top: 7px;
+ }
+
+
+ .dark-icon{
+    height: 25px;
+    width: 25px;
+    margin-left: 15px;
+    margin-top: -60px;
+    color: #0057FF;
+    cursor: pointer;
+ }
+
+
+
+
+
+
+
+ /* Additional  css for pool styling */
+
+ .pool{
+    /* background-color: blue; */
+   
+    color: aliceblue;
+    
+ }

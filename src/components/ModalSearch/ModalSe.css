@@ -1,0 +1,124 @@
+
+/* input{
+    border-radius: 50px;
+    width: 400px;
+    height: 40px
+} */
+
+
+.modal-icons{
+    height: 35px;
+    width: 35px;
+    /* margin-top: 12px; */
+    margin-right: 20px;
+}
+
+
+.header-container{
+
+    /* margin-top: -3px; */
+    /* background-color: chartreuse; */
+        margin-left: 5px;
+    /* width: 100%; */
+        text-align: left !important;
+        display: flex;
+        flex-direction: column;
+        height: fit-content;
+       /* justify-content: flex-start !important; */
+      
+    /* border: 1px red solid; */
+}
+
+.modal-flex{
+    display: flex;
+    height: 60px;
+    align-items: center;
+    padding: 0 20px;
+    width: 90%;
+    margin: auto;
+    /* background-color: blue; */
+    border-radius: 10px;
+    /* border: 1px red solid; */
+    /* justify-content: flex; */
+
+   
+}
+
+
+.modal-flex:hover {
+    background-color: rgb(3, 19, 235);
+  }
+
+
+  /* p{
+    padding: 0 !important;
+    margin: 0 !important;
+} */
+
+.p-header{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+
+    /* border: 1px red solid; */
+    text-align: left;
+    /* margin-bottom: -14px; */
+    color: rgb(17, 17, 17);
+    /* margin-left: 3px; */
+}
+
+.p-title{
+    color: rgb(179, 177, 177);
+    text-align: left;
+    /* margin-left: 10px; */
+    font-size: 15px;
+    /* border: 1px red solid; */
+    
+}
+
+/* .header-container.p-title {
+    text-align: left;
+  } */
+
+.active-pink-4 input[type="text"]:focus:not([readonly]) {
+    border: 1px solid rgb(247, 247, 247);
+    box-shadow: 0 0 0 1px rgb(247, 247, 247);
+
+    
+  }
+
+
+  .active-pink-3 input[type="text"] {
+    border: 1px solid rgb(236, 236, 236);
+    box-shadow: 0 0 0 1px rgb(247, 247, 247);
+
+    background-color: rgb(247, 247, 247);
+    border-radius: 10px;
+    width: 360px;
+    height: 50px;
+  }
+
+
+
+
+
+
+  /* CSS styling for modalSort */
+
+  .created-container{
+
+    /* margin-top: -3px; */
+    /* background-color: chartreuse; */
+        /* margin-left: 5px; */
+    /* width: 100%; */
+        text-align: left !important;
+        display: flex;
+        flex-direction: column;
+        /* height: fit-content; */
+       /* justify-content: flex-start !important; */
+      
+    /* border: 1px red solid; */
+
+    
+
+}

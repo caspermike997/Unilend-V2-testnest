@@ -1,0 +1,83 @@
+
+/* css Styling for Pool */
+
+.pool-banner{
+    display: flex;
+   justify-content: center;
+}
+
+
+.bannar-image{
+    height: 250px;
+}
+
+
+.pools{
+    /* margin-top: 10px; */
+    height: 40px;
+    background-color: rgb(28, 56, 237) ;
+
+    border-radius: 5px;
+}
+
+.token-Bar-pool{
+    margin-left: 350px;
+    /* z-index: 1000; */
+   margin-top: -30px;
+   position: absolute;
+   box-shadow: 0 4px 8px 0 rgba(20, 20, 20, 0.2), 0 6px 20px 0 rgba(8, 8, 8, 0.19);
+
+
+   display: flex;
+   align-items: center;
+   
+   
+   justify-content: space-between; 
+   /* align-content: center; */
+    height: 75px;
+    width: 700px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50px;
+    
+}
+
+
+.pool-div{
+    border-radius: 10px;
+    height: 35px;
+    width: 80px;
+    display: flex;
+    align-items: center;
+    background-color: blue;
+    /* margin-left: 100px; */
+    cursor: pointer;
+}
+
+.app-pool{
+    margin-left: 8px;
+    color: rgb(255, 255, 255);
+    /* margin-left: 100px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+.modal-sort{
+    display: flex;
+    height: 40px;
+    align-items: center;
+    padding: 0 20px;
+    /* width: 90%; */
+    /* margin: auto; */
+
+    
+    /* background-color: blue; */
+    border-radius: 10px;
+    /* border: 1px red solid; */
+    /* justify-content: flex; */
+}
+
+.modal-sort:hover {
+    background-color: rgb(3, 19, 235);
+  }
